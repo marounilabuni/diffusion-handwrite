@@ -10,7 +10,7 @@
 ---
 
 ## 📦 Dataset
-We use the [EMNIST](https://www.nist.gov/itl/products-and-services/emnist-dataset) dataset to train a character generation model. It includes thousands of grayscale handwritten character images.
+I used the [EMNIST](https://www.nist.gov/itl/products-and-services/emnist-dataset) dataset to train a character generation model. It includes thousands of grayscale handwritten character images.
 
 ```python
 from torchvision.datasets import EMNIST
