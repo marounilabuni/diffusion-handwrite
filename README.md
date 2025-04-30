@@ -4,7 +4,7 @@
 > A PyTorch-based implementation of a **Denoising Diffusion Probabilistic Model (DDPM)** trained on the EMNIST dataset to generate handwritten characters from noise.
 
 ![PyTorch](https://img.shields.io/badge/framework-PyTorch-red?logo=pytorch&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-blue)
+![License](https://img.shields.io/badge/license-Apache%202.0-blue)
 ![Status](https://img.shields.io/badge/status-Active-green)
 
 ---
@@ -69,7 +69,7 @@ Once trained, the model can generate samples like these:
 ---
 
 ## 📄 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
