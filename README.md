@@ -46,8 +46,7 @@ jupyter notebook diffusion_images_final.ipynb
 
 Once trained, the model can generate samples like these:
 
-> _[Insert sample images or grid here, e.g., using `make_grid()`]_  
-> `make_grid()` is used to visualize multiple character generations at once.
+>![DDPM](images/progress.png)
 
 ---
 
